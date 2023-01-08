@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object1",
+  "name": "obj_invisibleWall",
   "spriteId": {
-    "name": "Sprite1",
-    "path": "sprites/Sprite1/Sprite1.yy",
+    "name": "Sprite2",
+    "path": "sprites/Sprite2/Sprite2.yy",
   },
   "solid": false,
   "visible": true,
