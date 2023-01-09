@@ -16,6 +16,6 @@ A GML Starter kit for the **Platformer Tutorial (GML) - Parts 1 & 2**
 The assets and video tutorials were created by [Shaun Spalding](https://www.youtube.com/c/ShaunSpalding).
 Check out Shaun's amazing collections of videos.
 
-Game Mechanics
+## Game Mechanics
 * Wall jumping
 * Respawning
